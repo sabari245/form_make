@@ -1,0 +1,17 @@
+{
+    "name": "Login",
+    "fields": [
+        {
+            "id": "username",
+            "type": "text",
+            "label": "Username"
+        },
+        {
+            "id": "password",
+            "type": "password",
+            "label": "Password"
+        }
+    ],
+    "buttonText": "Submit",
+    "helperText": "Forgot your password?<a>Click here</a>"
+}
